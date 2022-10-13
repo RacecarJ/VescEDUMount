@@ -9,7 +9,7 @@ To mount the VESC EDU to the plate and chassis use 6 M3x8mm countersink machine 
 
 The motor wiring connector on the VESC EDU is MR60, and the power connector is XT-60.
 
-![Installed VESC EDU][BigMouth-VESC-EDU-Installed_600x@2x.jpg]
+![Installed VESC EDU](BigMouth-VESC-EDU-Installed_600x@2x.jpg)
 
 ## Release Notes:
 
